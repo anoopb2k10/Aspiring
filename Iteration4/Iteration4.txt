@@ -1,0 +1,3 @@
+Besides Iteration 3
+It has more formatted UI with no table border
+It is also more modular as showing information is confined in one function as info().
