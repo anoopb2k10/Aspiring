@@ -1,0 +1,2 @@
+It has a mapping function which will remove hardocding for particular language
+Common code for each language is redundant so it is pushed in function common() making code more modular.
